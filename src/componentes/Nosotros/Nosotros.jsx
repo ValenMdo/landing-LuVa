@@ -27,7 +27,7 @@ const Nosotros = () => {
           </p>
           <p className="text-gray-800 text-base md:text-lg leading-loose font-normal drop-shadow-sm">
             Trabajamos principalmente con sublimación y bordado, combinando diseño, calidad y atención al detalle en cada proyecto.
-            A lo largo de nuestra trayectoria hemos realizado más de 140 cursos de forma satisfactoria, respaldados por la confianza y las excelentes devoluciones de nuestros clientes, que nos eligen por el compromiso, la prolijidad y el resultado final.
+            A lo largo de nuestra trayectoria hemos realizado más de 500 cursos de forma satisfactoria, respaldados por la confianza y las excelentes devoluciones de nuestros clientes, que nos eligen por el compromiso, la prolijidad y el resultado final.
           </p>
         </section>
 
