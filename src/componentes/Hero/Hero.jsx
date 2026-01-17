@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import Logo from "../../assets/logo.png";
-import Campera1 from "../../assets/camperas/campera1-png.png";
+import Logo from "@/assets/logo.png";
+import Campera1 from "@/assets/camperas/campera1-png.png";
 
 // Sección principal de héroe de la landing
 const Hero = () => {

@@ -9,26 +9,26 @@ import "swiper/css/navigation"
 import "swiper/css/pagination"
 
 // IMPORTÁ TUS IMÁGENES
-import Campera1 from "../../assets/camperas/campera1-png.png";
-import Campera2 from "../../assets/camperas/campera2.png";
-import Campera3 from "../../assets/camperas/campera3.png";
-import Campera4 from "../../assets/camperas/campera4.png";
-import Campera5 from "../../assets/camperas/campera5.png";
-import Campera6 from "../../assets/camperas/campera6.png";
-import Campera7 from "../../assets/camperas/campera7.png";
-import Campera8 from "../../assets/camperas/campera8.png";
-import Campera9 from "../../assets/camperas/campera9.png";
-import Campera10 from "../../assets/camperas/campera10.png";
-import Campera11 from "../../assets/camperas/campera11.png";
-import Campera12 from "../../assets/camperas/campera12.png";
-import Campera13 from "../../assets/camperas/campera13.png";
-import Campera14 from "../../assets/camperas/campera14.png";
-import Campera15 from "../../assets/camperas/campera15.png";
-import Campera16 from "../../assets/camperas/campera16.png";
-import Campera17 from "../../assets/camperas/campera17.png";
-import Campera18 from "../../assets/camperas/campera18.png";
-import Campera19 from "../../assets/camperas/campera19.png";
-import Campera20 from "../../assets/camperas/campera20.png";
+import Campera1 from "@/assets/camperas/campera1-png.png";
+import Campera2 from "@/assets/camperas/campera2.png";
+import Campera3 from "@/assets/camperas/campera3.png";
+import Campera4 from "@/assets/camperas/campera4.png";
+import Campera5 from "@/assets/camperas/campera5.png";
+import Campera6 from "@/assets/camperas/campera6.png";
+import Campera7 from "@/assets/camperas/campera7.png";
+import Campera8 from "@/assets/camperas/campera8.png";
+import Campera9 from "@/assets/camperas/campera9.png";
+import Campera10 from "@/assets/camperas/campera10.png";
+import Campera11 from "@/assets/camperas/campera11.png";
+import Campera12 from "@/assets/camperas/campera12.png";
+import Campera13 from "@/assets/camperas/campera13.png";
+import Campera14 from "@/assets/camperas/campera14.png";
+import Campera15 from "@/assets/camperas/campera15.png";
+import Campera16 from "@/assets/camperas/campera16.png";
+import Campera17 from "@/assets/camperas/campera17.png";
+import Campera18 from "@/assets/camperas/campera18.png";
+import Campera19 from "@/assets/camperas/campera19.png";
+import Campera20 from "@/assets/camperas/campera20.png";
 
 const designs = [
   {

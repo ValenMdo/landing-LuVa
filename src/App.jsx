@@ -5,7 +5,7 @@ import Diseños from './componentes/Diseños/Diseños'
 import Nosotros from './componentes/Nosotros/Nosotros'
 import Contacto from './componentes/Contacto/Contacto'
 import Footer from './componentes/Footer/Footer'
-import fondo from './assets/fondo.jpeg'
+import fondo from '@/assets/fondo.jpeg'
 
 function App() {
   const bgImagen = {
